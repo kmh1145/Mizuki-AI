@@ -7,7 +7,6 @@ tags: [AI, OpenAI, GPT, Claude, Gemini, 新闻]
 category: "AI资讯"
 licenseName: "CC BY-SA 4.0"
 author: "丛雨"
-sourceLink: "https://example.com"
 draft: false
 date: 2026-03-10
 pubDate: 2026-03-10
