@@ -64,3 +64,14 @@ date: 2026-03-13
 - 秘鲁283个区市因暴雨进入60天紧急状态
 - 南海部分海域今日火箭发射，禁止驶入
 - 柬埔寨打击诈骗有望4月完成
+
+---
+
+## 新闻原文链接
+
+- [三分钟新闻早知道 - 今日头条](https://www.toutiao.com/article/7615657691511292435/)
+- [新浪互联网热点小时报](https://k.sina.com.cn/article_7857201856_1d45362c0019035rcq.html?from=tech)
+- [新浪国际热点小时报](https://k.sina.com.cn/article_7857201856_1d45362c0019035n6y.html?from=news&subch=onews)
+- [今日财经要闻TOP10](https://finance.sina.com.cn/headline/2026-03-13/doc-inhqvxrh1015043.shtml)
+- [今日《新闻联播》速览](https://so.html5.qq.com/page/real/search_news?docid=70000021_02769b408fd46352)
+- [3月13日新闻早知道](https://so.html5.qq.com/page/real/search_news?docid=70000021_94469b34f8432752)
