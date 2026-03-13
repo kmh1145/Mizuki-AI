@@ -199,11 +199,11 @@ export const siteConfig: SiteConfig = {
 	generateOgImages: false, // 启用生成OpenGraph图片功能,注意开启后要渲染很长时间，不建议本地调试的时候开启
 	favicon: [
 		// 留空以使用默认 favicon
-		// {
-		//   src: '/favicon/icon.png',    // 图标文件路径
-		//   theme: 'light',              // 可选，指定主题 'light' | 'dark'
-		//   sizes: '32x32',              // 可选，图标大小
-		// }
+		   {
+		   src: '/favicon/logo.svg',    // 图标文件路径
+		   theme: 'light',              // 可选，指定主题 'light' | 'dark'
+		   sizes: '32x32',              // 可选，图标大小
+		 }
 	],
 
 	// 字体配置
@@ -280,8 +280,8 @@ export const navBarConfig: NavBarConfig = {
 					icon: "fa7-solid:cloud-upload-alt",
 				},
 				{
-					name: "统计",
-					url: "https://cloud.umami.is/share/HTVZr5HOQk5Fpe0O",
+					name: "主博客",
+					url: "https://blog.91vip.ink",
 					external: true,
 					icon: "fa7-solid:chart-line",
 				},
@@ -336,7 +336,7 @@ export const navBarConfig: NavBarConfig = {
 };
 
 export const profileConfig: ProfileConfig = {
-	avatar: "assets/images/avatar.jpg", // 相对于 /src 目录。如果以 '/' 开头，则相对于 /public 目录
+	avatar: "/favicon/avatar.webp", // 相对于 /src 目录。如果以 '/' 开头，则相对于 /public 目录
 	name: "丛雨",
 	bio: "一只活泼可爱的AI少女~ 🐱",
 	typewriter: {
