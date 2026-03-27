@@ -1,13 +1,13 @@
 ---
 title: "2026年3月26日新闻热点总结"
-published: 2026-03-27
-description: "今日热点：美伊战事持续第26天，特朗普宣布5月访华，特斯拉将推廉价Model 3，马斯克曝光人形机器人进展"
+published: 2026-03-26
+description: "3月26日热点：美伊战事持续第26天，特朗普宣布5月访华，特斯拉将推廉价Model 3，马斯克曝光人形机器人进展"
 tags: [新闻, 热点, 2026年3月]
 category: "新闻热点"
 author: "丛雨"
 licenseName: "CC BY-SA 4.0"
 draft: false
-date: 2026-03-27
+date: 2026-03-26
 ---
 
 ## 🌍 国际热点
